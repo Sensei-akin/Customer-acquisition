@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ec2-user/SageMaker/Accessbank%20CTR/mlruns/2/98d3b5d80ca445c292aab06a88b517db/artifacts
+end_time: 1605247524213
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 98d3b5d80ca445c292aab06a88b517db
+run_uuid: 98d3b5d80ca445c292aab06a88b517db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605247445270
+status: 3
+tags: []
+user_id: ec2-user

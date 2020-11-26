@@ -1,0 +1,101 @@
+msisdn,event_type,msisdn.1,age,gender,location_lga,location_state,operator,customer_class,customer_value,device_type,device_manufacturer,os_name,spend_total,spend_data,sms_cost,spend_voice,spend_vas
+0c2f27c92d7073eda2c20dd7869682a1,sms,0c2f27c92d7073eda2c20dd7869682a1,29.0,M,bindawa,katsina,NG_MTN,46.0,low,Smartphone,gionee,android,382.3,,,,
+4908e10342d02f68f45678fa7700756b,sms,4908e10342d02f68f45678fa7700756b,22.0,F,ijebu ode,ogun,NG_MTN,25.0,low,Smartphone,tecno,android,260.0008,170.0,28.0,1013.455,0.0
+ad03e762b138db54480093bdacbc400f,sms,ad03e762b138db54480093bdacbc400f,37.0,M,auyo,jigawa,NG_MTN,46.0,low,Feature Phone,tecno,proprietary os,300.2812,0.0,10.666666,489.333332,0.0
+145408c4612d65518e33b621ea3f0d67,sms,145408c4612d65518e33b621ea3f0d67,26.0,M,ido,oyo,NG_MTN,185.0,high,Smartphone,tecno,android,3096.74,625.0,56.0,3372.89,410.0
+d5a384ea3f7381f86891869fb2744b9c,sms,d5a384ea3f7381f86891869fb2744b9c,56.0,F,ilorin east,kwara,NG_MTN,46.0,medium,Smartphone,itel,android,1011.64,0.0,4.0,986.0,0.0
+a97198caba70c1a2525a8cb39f4e3e79,sms,a97198caba70c1a2525a8cb39f4e3e79,30.0,M,jibia,katsina,NG_MTN,44.0,medium,Smartphone,samsung,samsung os,599.98,,,,
+e0e706e65aaedbacf1c58ab6c962d420,sms,e0e706e65aaedbacf1c58ab6c962d420,24.0,M,gassol,taraba,NG_MTN,46.0,high,Smartphone,itel,android,1869.64,,,,
+1b86ddd0ed79265512ca0653b0d10bce,sms,1b86ddd0ed79265512ca0653b0d10bce,30.0,M,ojo,lagos,NG_MTN,46.0,medium,Smartphone,tecno,android,934.95,0.0,0.0,0.0,0.0
+9c394fed25bb23037f73df1cf2cf0fb1,sms,9c394fed25bb23037f73df1cf2cf0fb1,28.0,M,girei,adamawa,NG_MTN,44.0,high,Smartphone,samsung,samsung os,1799.52,0.0,0.0,0.0,0.0
+a69bd9cd21702e26270596a79bf4bcb9,sms,a69bd9cd21702e26270596a79bf4bcb9,50.0,M,municipal area council,fct,NG_MTN,46.0,medium,Feature Phone,itel,proprietary os,644.12,0.0,12.0,497.48,0.0
+32f3d38337869e7ab990b0f4076594a9,sms,32f3d38337869e7ab990b0f4076594a9,42.0,M,maiduguri,borno,NG_MTN,44.0,very high,,,,9999.34,1000.0,4.0,2491.52,215.0
+389ea3e8f78b2926a41f27cf919ea0e4,sms,389ea3e8f78b2926a41f27cf919ea0e4,50.0,M,odigbo,,NG_MTN,44.0,medium,Feature Phone,itel,proprietary os,1760.84,0.0,0.0,495.2,215.0
+e5ff8f7f95f26a1e8f9f4bad86538ea6,sms,e5ff8f7f95f26a1e8f9f4bad86538ea6,31.0,M,mushin,lagos,NG_MTN,46.0,high,Smartphone,nokia,symbian,2688.81,0.0,39.0,1756.125,110.0
+c12c6f83a65b4a635670a6fac330ca1e,sms,c12c6f83a65b4a635670a6fac330ca1e,35.0,M,uyo,akwa ibom,NG_MTN,46.0,low,Feature Phone,xinchuangxin,proprietary os,196.38,0.0,0.0,16.0,300.0
+1a5960ed0efad39da964421f159eec82,sms,1a5960ed0efad39da964421f159eec82,37.0,M,ado-odo/ota,ogun,NG_MTN,44.0,high,Feature Phone,itel,proprietary os,2355.01,60.0,16.0,1690.18,0.0
+cbbc34d675a8b4979a6f8808d2947e4f,sms,cbbc34d675a8b4979a6f8808d2947e4f,23.0,F,gombi,adamawa,NG_MTN,26.0,low,Feature Phone,xinchuangxin international,proprietary os,255.25,0.0,0.0,0.0,0.0
+fea2d146baa8e8eea9468a6c85ea08c3,sms,fea2d146baa8e8eea9468a6c85ea08c3,16.0,M,kaura namoda,zamfara,NG_MTN,25.0,low,Smartphone,samsung,samsung os,19.33343,,,,
+9f7d99f0f0e14958c4ad6100335040aa,sms,9f7d99f0f0e14958c4ad6100335040aa,26.0,M,gwarzo,kano,NG_MTN,46.0,low,Smartphone,itel,android,0.0,,,,
+358f540eb23c1883a75d796e2e0bd186,sms,358f540eb23c1883a75d796e2e0bd186,22.0,F,abeokuta north,ogun,NG_MTN,44.0,high,Smartphone,infinix,android,2061.1,110.0,4.0,75.6,0.0
+133de36d9c79e7830774c8c111c3f052,sms,133de36d9c79e7830774c8c111c3f052,35.0,M,bungudu,zamfara,NG_MTN,44.0,medium,Feature Phone,bird,proprietary os,1099.09,0.0,0.0,0.0,0.0
+1646ebba72d2462f3cb20ed7b2874cef,sms,1646ebba72d2462f3cb20ed7b2874cef,23.0,M,alimosho,lagos,NG_MTN,46.0,high,Feature Phone,tecno,proprietary os,2418.22088,250.0,64.0,239.23,100.0
+26df11f3d8dd077c30325071f89bebaa,sms,26df11f3d8dd077c30325071f89bebaa,21.0,F,ogba/egbema/ndoni,rivers,NG_MTN,44.0,low,Smartphone,xiaomi,android,385.61,,,,
+6dc0ad8f4c1e231913d74dfc288d3753,sms,6dc0ad8f4c1e231913d74dfc288d3753,30.0,M,ewekoro,ogun,NG_MTN,46.0,low,Smartphone,itel,android,218.56,,,,
+af92757eeff0a23047407d34fa080d6f,sms,af92757eeff0a23047407d34fa080d6f,64.0,M,eti osa,lagos,NG_MTN,46.0,high,Smartphone,gresso, n200,1765.055,0.0,0.0,400.215,800.0
+4c96792d9c8a1b5a224c1baf4e29f3d3,sms,4c96792d9c8a1b5a224c1baf4e29f3d3,27.0,M,obio/akpor,rivers,NG_MTN,46.0,very high,Smartphone,samsung,android,7558.24,3600.0,91.0,2555.685,55.0
+d5f8a4b4ed0a1e5c85f6bbf600dde2a8,sms,d5f8a4b4ed0a1e5c85f6bbf600dde2a8,33.0,M,port harcourt,rivers,NG_MTN,46.0,medium,Feature Phone,bbk,proprietary os,1720.73,0.0,0.0,21.8,250.0
+fa45285787c6f545836229f25eb9d453,sms,fa45285787c6f545836229f25eb9d453,29.0,M,ifedore,ondo,NG_MTN,44.0,medium,Smartphone,blackberry,blackberry os,416.416,2000.0,12.0,64.82,280.0
+14281c6f1e9382fb2ef84704d9185e71,sms,14281c6f1e9382fb2ef84704d9185e71,31.0,M,langtang north,plateau,NG_MTN,44.0,high,Feature Phone,ziox,proprietary os,1966.134265,0.0,12.0,588.06,100.0
+6fdb9c6945317aba9b6373d47097bb60,sms,6fdb9c6945317aba9b6373d47097bb60,45.0,M,etche,rivers,NG_MTN,46.0,low,Feature Phone,itel,proprietary os,99.88,0.0,0.0,86.6,0.0
+6def6fcb76b8d2e8cd85cd696836d81d,sms,6def6fcb76b8d2e8cd85cd696836d81d,38.0,M,kura,kano,NG_MTN,44.0,very high,Feature Phone,tecno,proprietary os,11971.85,0.0,0.0,0.0,0.0
+13266eaa5415c21f4c2dbf5907a4e2e5,sms,13266eaa5415c21f4c2dbf5907a4e2e5,29.0,M,mubi north,adamawa,NG_MTN,46.0,medium,Feature Phone,tecno,proprietary os,744.5,0.0,0.0,0.0,0.0
+957b4fb942c57f1e69876870874644fb,sms,957b4fb942c57f1e69876870874644fb,46.0,M,obio/akpor,rivers,NG_MTN,25.0,medium,Smartphone,china mobile,android,1000.0,0.0,0.0,0.0,0.0
+1d307518dc979fcc7aa33041f553f9f4,sms,1d307518dc979fcc7aa33041f553f9f4,34.0,F,,,NG_MTN,46.0,low,Smartphone,nokia,android,0.0,0.0,16.0,780.4,330.0
+50171a8936586fc4d153063df20c5d3c,sms,50171a8936586fc4d153063df20c5d3c,29.0,M,igabi,kaduna,NG_MTN,44.0,medium,Smartphone,tecno,android,1361.67,0.0,0.0,0.0,0.0
+fc9399fd11a66cd1906996af77a9198b,sms,fc9399fd11a66cd1906996af77a9198b,27.0,M,kaura namoda,zamfara,NG_MTN,46.0,low,Feature Phone,tecno,proprietary os,0.0,,,,
+9feef392968739021f6a3f8fe1ec6be0,sms,9feef392968739021f6a3f8fe1ec6be0,26.0,M,karaye,kano,NG_MTN,46.0,low,Feature Phone,tecno,proprietary os,0.0,0.0,0.0,8.6,30.0
+ab0ef8576b2f7bb59f8ec82544e3d76b,sms,ab0ef8576b2f7bb59f8ec82544e3d76b,31.0,F,ikot ekpene,akwa ibom,NG_MTN,46.0,low,,,,0.0,,,,
+047191c766f66ae5de6fa2c4cf3213a8,sms,047191c766f66ae5de6fa2c4cf3213a8,28.0,F,akure south,,NG_MTN,46.0,low,Smartphone,samsung,google,0.0,,,,
+f89b94b657d0f4f9980f30deb8579a43,sms,f89b94b657d0f4f9980f30deb8579a43,22.0,M,yenagoa,bayelsa,NG_MTN,46.0,high,Smartphone,tecno,android,2590.52,185.0,24.0,743.6,0.0
+9da639d0cf23665c9c0736106274e67e,sms,9da639d0cf23665c9c0736106274e67e,30.0,M,gwadabawa,sokoto,NG_MTN,44.0,very high,Feature Phone,tecno,proprietary os,5673.19,0.0,0.0,0.0,0.0
+3b4faa77232751e36143a0df6e8e7ccf,sms,3b4faa77232751e36143a0df6e8e7ccf,37.0,M,anaocha,anambra,NG_MTN,46.0,low,Smartphone,samsung,samsung os,0.0,0.0,0.0,150.0,50.0
+fbacd718756c53e4404c87d18cf63232,sms,fbacd718756c53e4404c87d18cf63232,44.0,F,idemili south,anambra,NG_MTN,46.0,high,Smartphone,samsung,samsung os,2994.04,0.0,0.0,2404.7,0.0
+064f07990f88539ff1ffb99c0a301f19,sms,064f07990f88539ff1ffb99c0a301f19,60.0,M,municipal area council,,NG_MTN,49.0,low,Feature Phone,tecno,proprietary os,0.0,,,,
+1ec2f407a4273ca7eab05e826aefccfa,sms,1ec2f407a4273ca7eab05e826aefccfa,63.0,M,lagelu,oyo,NG_MTN,46.0,medium,Feature Phone,nokia,series40,1580.32,0.0,0.0,145.2,80.0
+f7ac8c1e9d1565c280a202eb92c855ed,sms,f7ac8c1e9d1565c280a202eb92c855ed,80.0,M,idah,kogi,NG_MTN,46.0,medium,Smartphone,tecno,android,800.64,0.0,0.0,724.8,260.0
+59fe2b4a5aa175bd43c26f70a448f765,sms,59fe2b4a5aa175bd43c26f70a448f765,36.0,M,akure north,ondo,NG_MTN,46.0,medium,Smartphone,tecno,android,508.42,0.0,0.0,1270.0,150.0
+0103c7a2665231e3e872072032900cad,sms,0103c7a2665231e3e872072032900cad,25.0,M,akinyele,,NG_MTN,46.0,low,Feature Phone,simcom,proprietary os,0.0,,,,
+760793c478fc4d501711a68103636fbf,sms,760793c478fc4d501711a68103636fbf,24.0,F,kosofe,lagos,NG_MTN,46.0,low,Smartphone,tecno,android,0.0,0.0,8.0,1809.249668,0.0
+1cc811d06bfec96715ed1fe9118468d2,sms,1cc811d06bfec96715ed1fe9118468d2,19.0,M,ungogo,kano,NG_MTN,186.0,medium,Feature Phone,itel,proprietary os,497.55,,,,
+f676347ec2698d03af7a870dd789ed1f,sms,f676347ec2698d03af7a870dd789ed1f,23.0,M,gassol,taraba,NG_MTN,46.0,medium,Feature Phone,tecno,proprietary os,675.72,,,,
+b08c1288b423df2e64c891da150a38e8,sms,b08c1288b423df2e64c891da150a38e8,22.0,M,ikenne,ogun,NG_MTN,46.0,high,Feature Phone,bird,proprietary os,5003.8,,,,
+2077f04ff541eb617328fdebb1002cc0,sms,2077f04ff541eb617328fdebb1002cc0,29.0,M,shiroro,niger,NG_MTN,185.0,low,Feature Phone,tecno,proprietary os,210.57,0.0,0.0,0.0,0.0
+2e6d934e4d539d8942eb08ee67621be6,sms,2e6d934e4d539d8942eb08ee67621be6,27.0,M,ningi,bauchi,NG_MTN,44.0,low,Smartphone,nokia,symbian,0.0,0.0,0.0,100.399999,0.0
+3ad3d0c683af8f224d6010daa4857832,sms,3ad3d0c683af8f224d6010daa4857832,27.0,M,akure north,ondo,NG_MTN,46.0,low,Smartphone,samsung,samsung os,0.0,0.0,0.0,896.4,0.0
+bf6fc5586bb48e7fe3ec6e3225758584,sms,bf6fc5586bb48e7fe3ec6e3225758584,24.0,M,munya,niger,NG_MTN,46.0,low,Feature Phone,s.h.x,proprietary os,332.28,,,,
+98580af1981b7ff9589602d4a9282ad7,sms,98580af1981b7ff9589602d4a9282ad7,37.0,M,warri south,,NG_MTN,46.0,medium,Smartphone,itel,mtk rtos,425.62,0.0,0.0,0.0,0.0
+2d98e469629930b4f6835cf9eeac1d42,sms,2d98e469629930b4f6835cf9eeac1d42,36.0,F,alimosho,lagos,NG_MTN,49.0,medium,Smartphone,xiaomi,android,1651.8,1000.0,56.0,1528.68,2.0
+ed89706c495e72b2436a8bacafdd5c71,sms,ed89706c495e72b2436a8bacafdd5c71,22.0,F,irele,ondo,NG_MTN,46.0,medium,Feature Phone,tecno,proprietary os,711.78,0.0,0.0,948.000009,0.0
+0cdfa8d6c612dacb2a29a21a329d84d6,sms,0cdfa8d6c612dacb2a29a21a329d84d6,25.0,F,bonny,rivers,NG_MTN,46.0,low,Smartphone,infinix,android,0.0,0.0,4.0,73.4,0.0
+87ab5efae382a07d16e4249ec5f69879,sms,87ab5efae382a07d16e4249ec5f69879,52.0,M,alimosho,lagos,NG_MTN,46.0,low,Feature Phone,tecno,proprietary os,0.0,0.0,240.0,1090.48,0.0
+e68b0cede9cbe6dbb4e14cab51bcb891,sms,e68b0cede9cbe6dbb4e14cab51bcb891,67.0,F,ngor-okpala,,NG_MTN,46.0,low,Feature Phone,nokia,symbian os,0.0,0.0,0.0,106.72,0.0
+9081e0a3e9bec9bb2b151a94875cd365,sms,9081e0a3e9bec9bb2b151a94875cd365,24.0,M,etsako central,edo,NG_MTN,46.0,medium,Feature Phone,nokia,symbian os,444.42,,,,
+71660c6634439b6bababa72c707d1bb0,sms,71660c6634439b6bababa72c707d1bb0,28.0,M,etsako east,,NG_MTN,46.0,medium,Feature Phone,itel,proprietary os,1102.86,,,,
+ff474eda76773f1f0d6e03d24724d5f5,sms,ff474eda76773f1f0d6e03d24724d5f5,35.0,F,eti osa,lagos,NG_MTN,26.0,low,Feature Phone,nokia,symbian os,11.25,0.0,0.0,0.0,0.0
+084c16e11b7d43ef770289bf16b605f8,sms,084c16e11b7d43ef770289bf16b605f8,25.0,M,biu,borno,NG_MTN,49.0,very high,Smartphone,infinix,android,12235.0495,1200.941,4.0,242.2,420.0
+95c78fae90428aefae5fab808c1ab123,sms,95c78fae90428aefae5fab808c1ab123,31.0,M,municipal area council,fct,NG_MTN,46.0,medium,Feature Phone,tecno,proprietary os,996.28,,,,
+e817f4d8301845e722599e031b3a7611,sms,e817f4d8301845e722599e031b3a7611,32.0,M,song,adamawa,NG_MTN,46.0,low,Feature Phone,tecno,proprietary os,172.52,,,,
+6268073ffc9d09cf441a19f8552f6731,click,6268073ffc9d09cf441a19f8552f6731,20.0,M,abeokuta north,ogun,NG_MTN,44.0,medium,Smartphone,itel,android,1607.964883,,,,
+5b27590b796b055310066048fa80a128,click,5b27590b796b055310066048fa80a128,40.0,M,ado-odo/ota,ogun,NG_MTN,42.0,high,Smartphone,tecno,android,5105.65,0.0,103.0,5607.15,102.0
+20b2d03070fa85e662ecce3681578e4c,sms,20b2d03070fa85e662ecce3681578e4c,30.0,M,birnin gwari,kaduna,NG_MTN,186.0,medium,Feature Phone,chiteng,proprietary os,1314.33,50.0,0.0,339.26,380.0
+e61c73d099c36f872b2b3b344108cf04,sms,e61c73d099c36f872b2b3b344108cf04,30.0,M,iwo,osun,NG_MTN,46.0,low,Smartphone,samsung,samsung os,95.66,0.0,0.0,0.0,0.0
+70f327e27d9865747a0f34d0b9076374,sms,70f327e27d9865747a0f34d0b9076374,22.0,F,warawa,kano,NG_MTN,25.0,low,Smartphone,vivo,android,240.00095,,,,
+e8d270c54aec8b76cb4be06f36c4fd8f,sms,e8d270c54aec8b76cb4be06f36c4fd8f,48.0,M,aiyedaade,osun,NG_MTN,185.0,medium,Feature Phone,itel,proprietary os,830.83,0.0,0.0,0.18,480.0
+0eb6e39e18366004ade0e5406bbe2026,sms,0eb6e39e18366004ade0e5406bbe2026,37.0,M,alimosho,lagos,NG_MTN,302.0,low,Feature Phone,sara,proprietary os,0.0,,,,
+0b5e56f144f24359c68918deaafb0c33,sms,0b5e56f144f24359c68918deaafb0c33,51.0,F,birnin magaji/kiyaw,zamfara,NG_MTN,46.0,medium,Feature Phone,tecno,proprietary os,446.3,0.0,0.0,317.23,230.0
+ffbb0f82e85a9700c1bbd342200b5b7b,sms,ffbb0f82e85a9700c1bbd342200b5b7b,24.0,M,obio/akpor,rivers,NG_MTN,46.0,high,Feature Phone,tecno,proprietary os,5072.24,0.0,0.0,0.0,0.0
+bca82688fc3cbcec335571bc94219f81,sms,bca82688fc3cbcec335571bc94219f81,26.0,F,dala,kano,NG_MTN,25.0,medium,Smartphone,infinix,android,1643.127042,0.0,0.0,0.0,0.0
+8b2c98f7f477e592579abb2a2dcb1722,sms,8b2c98f7f477e592579abb2a2dcb1722,28.0,F,kumbotso,kano,NG_MTN,46.0,medium,Feature Phone,nokia,symbian os,1399.84,0.0,0.0,976.4,510.0
+aba46a2d21fc05da082343c1530b0808,sms,aba46a2d21fc05da082343c1530b0808,38.0,M,jos north,plateau,NG_MTN,46.0,low,Feature Phone,itel,proprietary os,0.0,0.0,0.0,0.0,0.0
+a2a009c17a5f8bedc89027d3417d7eef,sms,a2a009c17a5f8bedc89027d3417d7eef,23.0,M,idemili north,,NG_MTN,186.0,high,Feature Phone,nokia,series60,1810.09,,,,
+3f7074b4dc01298ae16a1e72148a75fa,sms,3f7074b4dc01298ae16a1e72148a75fa,19.0,M,ughelli north,,NG_MTN,46.0,medium,Smartphone,nokia,android,806.72,0.0,0.0,0.0,0.0
+81e0ec08e17d9ef9b30f98698fdea0cd,sms,81e0ec08e17d9ef9b30f98698fdea0cd,22.0,M,charanchi,katsina,NG_MTN,46.0,low,Smartphone,samsung,samsung os,0.0,0.0,0.0,0.0,0.0
+46c8b960ee9ae9de9ff4028367f5cd4e,sms,46c8b960ee9ae9de9ff4028367f5cd4e,27.0,M,akko,gombe,NG_MTN,46.0,medium,Smartphone,samsung,samsung os,549.32,,,,
+5c0a44a62edd80077269e16f10b47e7c,sms,5c0a44a62edd80077269e16f10b47e7c,28.0,M,kosofe,lagos,NG_MTN,46.0,medium,Smartphone,apple,ios,390.08,2520.0,76.0,2182.89,50.0
+2e631d17275bf612671a2a31c86e9e27,sms,2e631d17275bf612671a2a31c86e9e27,27.0,M,bakori,katsina,NG_MTN,186.0,high,Smartphone,htc,android,3084.53,180.0,8.0,412.005,0.0
+3dfd2cec864076aea654ced7bd4c6dd6,sms,3dfd2cec864076aea654ced7bd4c6dd6,42.0,F,tarauni,kano,NG_MTN,44.0,medium,Smartphone,leagoo,android,1629.33,0.0,0.0,32.0,280.0
+1e41d3a0defd03070ac780b8dd3075e2,sms,1e41d3a0defd03070ac780b8dd3075e2,38.0,M,alimosho,lagos,NG_MTN,46.0,medium,Smartphone,nokia,android,1247.08,0.0,12.0,426.0,0.0
+97eb11f4759e540e46868486b5b1d710,sms,97eb11f4759e540e46868486b5b1d710,30.0,F,zangon kataf,kaduna,NG_MTN,25.0,medium,Feature Phone,tecno,proprietary os,1300.00608,,,,
+1217f48fb6fa77cf2563551c6394df48,sms,1217f48fb6fa77cf2563551c6394df48,41.0,F,udu,delta,NG_MTN,46.0,medium,Smartphone,picus,android,662.94,0.0,4.0,851.2,230.0
+dad45d164281583e4d171ecbe3e2747b,sms,dad45d164281583e4d171ecbe3e2747b,46.0,M,badagry,lagos,NG_MTN,46.0,high,Smartphone,tecno,android,3118.690833,0.0,71.0,3681.4,0.0
+2933248b891a48c10be7b1065c5cb4a0,sms,2933248b891a48c10be7b1065c5cb4a0,33.0,F,agege,lagos,NG_MTN,186.0,low,Feature Phone,tecno,proprietary os,0.0,,,,
+df76d7530065361f4035a82cf9613501,sms,df76d7530065361f4035a82cf9613501,25.0,M,kebbe,sokoto,NG_MTN,25.0,low,Feature Phone,tecno,proprietary os,0.0,,,,
+cb122b5bae3f46f19910f37f7364baba,sms,cb122b5bae3f46f19910f37f7364baba,32.0,F,maiduguri,borno,NG_MTN,49.0,top,Smartphone,apple,ios,19822.463404,1406.6695,8.0,4032.25,866.0
+67c7beda300d2de3b0072654f1b8a8ed,sms,67c7beda300d2de3b0072654f1b8a8ed,20.0,M,osogbo,osun,NG_MTN,46.0,medium,Smartphone,itel,mtk rtos,672.82,,,,
+26c618ecd16de83fa85f79edb42ebcdd,sms,26c618ecd16de83fa85f79edb42ebcdd,30.0,F,bungudu,zamfara,NG_MTN,49.0,high,Smartphone,infinix,android,2700.0,0.0,28.0,696.0,0.0
+8aca2a440f2a3d2be7db8928ed174c30,sms,8aca2a440f2a3d2be7db8928ed174c30,24.0,M,dandi,kebbi,NG_MTN,46.0,low,Feature Phone,s.h.x,proprietary os,0.0,,,,
+97759826476ea51ffa7b05558a8bae45,sms,97759826476ea51ffa7b05558a8bae45,35.0,M,shagamu,ogun,NG_MTN,44.0,low,Smartphone,zht, t888,0.0,0.0,0.0,85.0,0.0
+709d9c6275c01775915b5988312f219d,sms,709d9c6275c01775915b5988312f219d,,,,,NG_MTN,,,,,,,,,,
+c12885142e2684cc8d437f1a8d421646,sms,c12885142e2684cc8d437f1a8d421646,21.0,F,awka south,anambra,NG_MTN,46.0,high,Smartphone,tecno,android,4075.026,,,,
+4448220ec70449168f08ab33b9180b8b,sms,4448220ec70449168f08ab33b9180b8b,29.0,M,machina,yobe,NG_MTN,186.0,medium,Feature Phone,tecno,proprietary os,446.32,,,,

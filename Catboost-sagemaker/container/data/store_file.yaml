@@ -1,0 +1,50 @@
+cat_feat:
+- msisdn
+- event_type
+- msisdn.1
+- gender
+- location_lga
+- location_state
+- operator
+- customer_value
+- device_type
+- device_manufacturer
+- os_name
+hash_feat:
+- msisdn
+- msisdn.1
+- location_lga
+- device_manufacturer
+- os_name
+input_columns:
+- msisdn
+- age
+- gender
+- location_lga
+- location_state
+- operator
+- customer_class
+- customer_value
+- device_type
+- device_manufacturer
+- os_name
+- spend_total
+- spend_data
+- sms_cost
+- spend_voice
+- spend_vas
+lower_cat:
+- event_type
+- gender
+- location_state
+- operator
+- customer_value
+- device_type
+num_feat:
+- age
+- customer_class
+- spend_total
+- spend_data
+- sms_cost
+- spend_voice
+- spend_vas

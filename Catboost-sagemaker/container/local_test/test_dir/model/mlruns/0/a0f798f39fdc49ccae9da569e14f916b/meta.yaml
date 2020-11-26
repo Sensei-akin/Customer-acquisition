@@ -1,0 +1,15 @@
+artifact_uri: file:///opt/program/mlruns/0/a0f798f39fdc49ccae9da569e14f916b/artifacts
+end_time: 1606092495112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a0f798f39fdc49ccae9da569e14f916b
+run_uuid: a0f798f39fdc49ccae9da569e14f916b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1606092491629
+status: 3
+tags: []
+user_id: root

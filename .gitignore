@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Catboost-local/**/*.csv
+Catboost-local/model/*
+Catboost-local/mlruns/**/*.pkl
+Catboost-local/**/*.pkl
